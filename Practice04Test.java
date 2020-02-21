@@ -1,5 +1,3 @@
-
-
 import java.util.Random;
 
 /**
@@ -211,3 +209,4 @@ public class Practice04Test {
 	}
 
 }
+

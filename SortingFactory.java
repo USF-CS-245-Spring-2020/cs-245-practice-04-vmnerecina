@@ -1,5 +1,3 @@
-
-
 public class SortingFactory {
 
 	public final String defaultAlgorithm = "InsertionSort";  // If an improper algorithm name is given, which should be used?
